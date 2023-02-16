@@ -6,7 +6,7 @@
   "type": "module",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/felipepardo90/new-Backend.git"
+    "url": "git+https://github.com/jonathansansok/solo-graphql.git"
   },
   "scripts": {
     "start": "node graph1/src/server.js",
@@ -51,7 +51,7 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/felipepardo90/new-Backend/issues"
+    "url": "https://github.com/jonathansansok/solo-graphql/issues"
   },
-  "homepage": "https://github.com/felipepardo90/new-Backend#readme"
+  "homepage": "https://github.com/jonathansansok/solo-graphql#readme"
 }
